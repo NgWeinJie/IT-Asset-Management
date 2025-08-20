@@ -121,7 +121,7 @@ Key endpoints:
 ## 1. Invalid User Input Handling
 
 **Frontend Validation**
-- Real-time validation with HTML5 + Vue.js reactive properties
+- Real-time validation with Vue.js reactive properties
 - Immediate visual feedback with custom error styling
 - Required field validation before API calls
 
